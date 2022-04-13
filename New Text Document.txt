@@ -1,0 +1,40 @@
+
+C:\Users\kavi\Downloads\Code>python candleFromTickData
+python: can't open file 'C:\\Users\\kavi\\Downloads\\Code\\candleFromTickData': [Errno 2] No such file or directory
+
+C:\Users\kavi\Downloads\Code>python candleFromTickData.py
+[*] Generate access Token :  https://kite.trade/connect/login?api_key=t379p57sb0374g5l&v=3
+[*] Enter Your Request Token Here : 2kryp4eK9u225vPw2cERIB2D8637LDh7
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expected numpy.ndarray, got Indicators)
+Argument 'real' has incorrect type (expec
