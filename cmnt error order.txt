@@ -1,0 +1,5 @@
+C:\Users\kavi\Downloads\Code>logs findstr "placing"20220504-091633.txt
+'logs' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kavi\Downloads\Code>
