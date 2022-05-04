@@ -1,0 +1,8 @@
+
+C:\Users\kavi\Downloads\Code>python AbhaysApp.py
+[*] Generate access Token :  https://kite.trade/connect/login?api_key=t379p57sb0374g5l&v=3
+[*] Enter Your Request Token Here : g9E6krwqqhhRe3T9iEcganLslu1QXrlW
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
