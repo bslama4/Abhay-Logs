@@ -1,0 +1,412 @@
+
+C:\Users\kavi\Downloads\Code>Python AbhaysApp.py
+[*] Generate access Token :  https://kite.trade/connect/login?api_key=t379p57sb0374g5l&v=3
+[*] Enter Your Request Token Here : bltHunqlDbubGykOFl7560CZCBvCWKnY
+Connected
+Connected
+Connected
+Connected
+Connected
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\Users\kavi\Downloads\Code>Python AbhaysApp.py
+[*] Generate access Token :  https://kite.trade/connect/login?api_key=t379p57sb0374g5l&v=3
+[*] Enter Your Request Token Here : bltHunqlDbubGykOFl7560CZCBvCWKnY
+Connected
+Connected
+Connected
+Connected
+Connected
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\Users\kavi\Downloads\Code>Python AbhaysApp.py
+[*] Generate access Token :  https://kite.trade/connect/login?api_key=t379p57sb0374g5l&v=3
+[*] Enter Your Request Token Here : bltHunqlDbubGykOFl7560CZCBvCWKnY
+Connected
+Connected
+Connected
+Connected
+Connected
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+'int' object is not subscriptable
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Connected
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+Bracket orders are blocked temporarily. Use CNC or NRML or MIS orders instead. Stay updated on allowed intraday products on our  [bulletin.](https://zerodha.com/marketintel/bulletin/249809/latest-intraday-leverages-mis-bo-co)
+KiteConnect.place_order() missing 1 required positional argument: 'variety'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
