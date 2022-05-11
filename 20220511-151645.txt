@@ -1,0 +1,369 @@
+2022-05-11:15:16:47,44 INFO     [utils.py:235] Chromedriver is already installed.
+2022-05-11:15:16:47,44 INFO     [AbhaysApp1.py:177] Login into kite connect...
+2022-05-11:15:17:29,203 INFO     [AbhaysApp1.py:182] Checking if token is valid...
+2022-05-11:15:17:29,625 INFO     [AbhaysApp1.py:184] Token generated successfully...
+2022-05-11:15:17:29,625 INFO     [AbhaysApp1.py:191] keys - t379p57sb0374g5l ODbgK4Jw29aGJ5Abu4wg22anb9eAK9TV
+2022-05-11:15:17:29,625 INFO     [AbhaysApp1.py:198] connecting to kite
+2022-05-11:15:17:30,141 INFO     [AbhaysApp1.py:441] connected
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 0 : 1349.25 : 1348.25 : 1349.0
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 0 : 0 : 0
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 0 : 470.75 : 470.4 : 470.75
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 0 : 0 : 0
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 0 : 359.35 : 359.25 : 359.35
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 0 : 0 : 0
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 0 : 2447.25 : 2446.6 : 2446.65
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 0 : 0 : 0
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 0 : 476.25 : 476.0 : 476.15
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 0 : 0 : 0
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 0 : 3672.55 : 3670.05 : 3672.45
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 0 : 0 : 0
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 0 : 3410.35 : 3410.0 : 3410.05
+2022-05-11:15:17:48,74 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 0 : 0 : 0
+2022-05-11:15:17:48,684 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 0 : 713.75 : 713.25 : 713.4
+2022-05-11:15:17:48,684 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 0 : 0 : 0
+2022-05-11:15:18:47,455 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 0 : 1525.8 : 1525.0 : 1525.45
+2022-05-11:15:18:47,455 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 0 : 0 : 0
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.3 : 359.3 : 359.05 : 359.2
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 359.35 : 359.25 : 359.35
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 713.55 : 714.5 : 713.55 : 714.35
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 713.75 : 713.25 : 713.4
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2446.7 : 2450.1 : 2446.65 : 2449.95
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 2447.25 : 2446.6 : 2446.65
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 476.05 : 476.8 : 475.95 : 476.8
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 476.25 : 476.0 : 476.15
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3672.45 : 3679.75 : 3672.45 : 3677.6
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 3672.55 : 3670.05 : 3672.45
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3410.0 : 3412.95 : 3410.0 : 3412.25
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 3410.35 : 3410.0 : 3410.05
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1348.9 : 1349.45 : 1348.35 : 1348.7
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 1349.25 : 1348.25 : 1349.0
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 470.65 : 470.85 : 470.3 : 470.55
+2022-05-11:15:18:48,48 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 470.75 : 470.4 : 470.75
+2022-05-11:15:19:48,80 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3677.65 : 3682.0 : 3675.8 : 3682.0
+2022-05-11:15:19:48,80 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3672.45 : 3679.75 : 3672.45 : 3677.6
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1348.95 : 1349.0 : 1348.45 : 1348.9
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1348.9 : 1349.45 : 1348.35 : 1348.7
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 470.35 : 470.65 : 470.2 : 470.3
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 470.65 : 470.85 : 470.3 : 470.55
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.2 : 359.35 : 359.1 : 359.35
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.3 : 359.3 : 359.05 : 359.2
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1525.45 : 1527.45 : 1525.45 : 1526.65
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 0 : 1525.8 : 1525.0 : 1525.45
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2450.0 : 2451.7 : 2448.7 : 2449.1
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2446.7 : 2450.1 : 2446.65 : 2449.95
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 476.8 : 476.9 : 476.5 : 476.7
+2022-05-11:15:19:48,95 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 476.05 : 476.8 : 475.95 : 476.8
+2022-05-11:15:19:48,642 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3412.25 : 3413.55 : 3410.5 : 3410.95
+2022-05-11:15:19:48,642 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3410.0 : 3412.95 : 3410.0 : 3412.25
+2022-05-11:15:19:48,642 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 714.25 : 714.35 : 713.5 : 713.85
+2022-05-11:15:19:48,642 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 713.55 : 714.5 : 713.55 : 714.35
+2022-05-11:15:20:47,491 INFO     [AbhaysApp1.py:359] 5 False Candle data :: RELIANCE  : 0 : 2451.7 : 2446.6 : 2449.75
+2022-05-11:15:20:47,491 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2449.1 : 2450.15 : 2447.0 : 2449.75
+2022-05-11:15:20:47,491 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2450.0 : 2451.7 : 2448.7 : 2449.1
+2022-05-11:15:20:47,491 INFO     [AbhaysApp1.py:359] 5 False Candle data :: APOLLOHOSP  : 0 : 3682.0 : 3670.05 : 3673.95
+2022-05-11:15:20:47,491 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3681.8 : 3681.8 : 3673.75 : 3673.95
+2022-05-11:15:20:47,491 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3677.65 : 3682.0 : 3675.8 : 3682.0
+2022-05-11:15:20:47,491 INFO     [AbhaysApp1.py:359] 5 False Candle data :: AMBUJACEM  : 0 : 359.4 : 358.85 : 359.1
+2022-05-11:15:20:47,491 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.35 : 359.4 : 358.85 : 359.1
+2022-05-11:15:20:47,491 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.2 : 359.35 : 359.1 : 359.35
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:359] 5 False Candle data :: ICICIBANK  : 0 : 714.5 : 713.25 : 714.0
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 713.8 : 714.4 : 713.5 : 714.0
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 714.25 : 714.35 : 713.5 : 713.85
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:359] 5 False Candle data :: INFY  : 0 : 1528.2 : 1525.0 : 1526.85
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1526.6 : 1528.2 : 1526.15 : 1526.85
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1525.45 : 1527.45 : 1525.45 : 1526.65
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:359] 5 False Candle data :: SBIN  : 0 : 478.0 : 475.95 : 477.95
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 476.7 : 478.0 : 476.7 : 477.95
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 476.8 : 476.9 : 476.5 : 476.7
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:359] 5 False Candle data :: TCS  : 0 : 3413.55 : 3410.0 : 3411.55
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3410.9 : 3413.45 : 3410.0 : 3411.55
+2022-05-11:15:20:48,131 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3412.25 : 3413.55 : 3410.5 : 3410.95
+2022-05-11:15:20:48,631 INFO     [AbhaysApp1.py:359] 5 False Candle data :: HDFCBANK  : 0 : 1349.45 : 1348.25 : 1349.2
+2022-05-11:15:20:48,646 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1348.7 : 1349.2 : 1348.25 : 1349.2
+2022-05-11:15:20:48,646 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1348.95 : 1349.0 : 1348.45 : 1348.9
+2022-05-11:15:20:48,646 INFO     [AbhaysApp1.py:359] 5 False Candle data :: WIPRO  : 0 : 471.2 : 470.05 : 471.2
+2022-05-11:15:20:48,646 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 470.15 : 471.2 : 470.05 : 471.2
+2022-05-11:15:20:48,646 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 470.35 : 470.65 : 470.2 : 470.3
+2022-05-11:15:21:47,437 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 714.15 : 714.7 : 714.15 : 714.35
+2022-05-11:15:21:47,437 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 713.8 : 714.4 : 713.5 : 714.0
+2022-05-11:15:21:48,78 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3673.95 : 3688.8 : 3673.95 : 3681.25
+2022-05-11:15:21:48,78 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3681.8 : 3681.8 : 3673.75 : 3673.95
+2022-05-11:15:21:48,78 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3411.55 : 3412.9 : 3411.0 : 3412.1
+2022-05-11:15:21:48,78 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3410.9 : 3413.45 : 3410.0 : 3411.55
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1526.85 : 1526.85 : 1525.0 : 1526.0
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1526.6 : 1528.2 : 1526.15 : 1526.85
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2449.75 : 2449.75 : 2446.2 : 2446.75
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2449.1 : 2450.15 : 2447.0 : 2449.75
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 477.95 : 478.2 : 477.7 : 477.8
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 476.7 : 478.0 : 476.7 : 477.95
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1349.2 : 1349.5 : 1348.3 : 1348.3
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1348.7 : 1349.2 : 1348.25 : 1349.2
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 471.2 : 472.5 : 471.15 : 472.3
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 470.15 : 471.2 : 470.05 : 471.2
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.15 : 359.5 : 359.1 : 359.2
+2022-05-11:15:21:48,624 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.35 : 359.4 : 358.85 : 359.1
+2022-05-11:15:22:47,468 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2447.2 : 2449.9 : 2447.2 : 2449.85
+2022-05-11:15:22:47,468 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2449.75 : 2449.75 : 2446.2 : 2446.75
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1526.05 : 1527.5 : 1525.95 : 1526.95
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1526.85 : 1526.85 : 1525.0 : 1526.0
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 477.8 : 478.2 : 477.8 : 478.0
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 477.95 : 478.2 : 477.7 : 477.8
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3680.25 : 3687.85 : 3678.65 : 3686.15
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3673.95 : 3688.8 : 3673.95 : 3681.25
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3412.15 : 3418.0 : 3411.6 : 3416.1
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3411.55 : 3412.9 : 3411.0 : 3412.1
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1348.3 : 1349.4 : 1348.15 : 1349.05
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1349.2 : 1349.5 : 1348.3 : 1348.3
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 472.35 : 473.25 : 471.95 : 473.0
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 471.2 : 472.5 : 471.15 : 472.3
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.5 : 359.5 : 359.2 : 359.35
+2022-05-11:15:22:48,46 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.15 : 359.5 : 359.1 : 359.2
+2022-05-11:15:22:48,671 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 714.35 : 715.05 : 714.35 : 715.05
+2022-05-11:15:22:48,671 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 714.15 : 714.7 : 714.15 : 714.35
+2022-05-11:15:23:47,450 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1526.95 : 1528.45 : 1526.85 : 1527.05
+2022-05-11:15:23:47,450 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1526.05 : 1527.5 : 1525.95 : 1526.95
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3686.15 : 3689.55 : 3683.45 : 3689.55
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3680.25 : 3687.85 : 3678.65 : 3686.15
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3416.4 : 3416.4 : 3415.0 : 3416.2
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3412.15 : 3418.0 : 3411.6 : 3416.1
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1349.3 : 1349.5 : 1348.25 : 1349.35
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1348.3 : 1349.4 : 1348.15 : 1349.05
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.35 : 359.35 : 359.25 : 359.25
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.5 : 359.5 : 359.2 : 359.35
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 715.05 : 715.3 : 714.55 : 714.85
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 714.35 : 715.05 : 714.35 : 715.05
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 478.1 : 478.6 : 477.95 : 478.45
+2022-05-11:15:23:48,43 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 477.8 : 478.2 : 477.8 : 478.0
+2022-05-11:15:23:48,668 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2449.9 : 2450.7 : 2447.6 : 2449.7
+2022-05-11:15:23:48,668 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2447.2 : 2449.9 : 2447.2 : 2449.85
+2022-05-11:15:23:48,668 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 473.1 : 474.0 : 473.0 : 473.7
+2022-05-11:15:23:48,668 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 472.35 : 473.25 : 471.95 : 473.0
+2022-05-11:15:24:47,467 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1527.1 : 1528.45 : 1526.95 : 1527.75
+2022-05-11:15:24:47,467 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1526.95 : 1528.45 : 1526.85 : 1527.05
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3689.2 : 3700.2 : 3686.9 : 3696.15
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3686.15 : 3689.55 : 3683.45 : 3689.55
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3416.1 : 3416.55 : 3415.0 : 3415.05
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3416.4 : 3416.4 : 3415.0 : 3416.2
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 473.75 : 474.95 : 473.7 : 474.9
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 473.1 : 474.0 : 473.0 : 473.7
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.3 : 359.3 : 359.25 : 359.25
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.35 : 359.35 : 359.25 : 359.25
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2449.8 : 2452.7 : 2449.75 : 2451.6
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2449.9 : 2450.7 : 2447.6 : 2449.7
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 478.45 : 478.9 : 478.25 : 478.65
+2022-05-11:15:24:48,61 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 478.1 : 478.6 : 477.95 : 478.45
+2022-05-11:15:24:48,639 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1349.4 : 1350.0 : 1348.85 : 1350.0
+2022-05-11:15:24:48,639 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1349.3 : 1349.5 : 1348.25 : 1349.35
+2022-05-11:15:24:48,639 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 714.85 : 715.35 : 714.65 : 714.85
+2022-05-11:15:24:48,639 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 715.05 : 715.3 : 714.55 : 714.85
+2022-05-11:15:25:48,38 INFO     [AbhaysApp1.py:359] 5 False Candle data :: INFY  : 1526.85 : 1529.4 : 1525.0 : 1529.4
+2022-05-11:15:25:48,38 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1527.75 : 1529.4 : 1527.7 : 1529.4
+2022-05-11:15:25:48,38 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1527.1 : 1528.45 : 1526.95 : 1527.75
+2022-05-11:15:25:48,38 INFO     [AbhaysApp1.py:359] 5 False Candle data :: WIPRO  : 471.2 : 475.8 : 471.15 : 475.8
+2022-05-11:15:25:48,38 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 474.9 : 475.8 : 474.85 : 475.8
+2022-05-11:15:25:48,38 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 473.75 : 474.95 : 473.7 : 474.9
+2022-05-11:15:25:48,678 INFO     [AbhaysApp1.py:359] 5 False Candle data :: RELIANCE  : 2449.75 : 2452.7 : 2446.2 : 2450.9
+2022-05-11:15:25:48,678 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2451.6 : 2452.6 : 2450.0 : 2450.9
+2022-05-11:15:25:48,678 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2449.8 : 2452.7 : 2449.75 : 2451.6
+2022-05-11:15:25:48,678 INFO     [AbhaysApp1.py:359] 5 False Candle data :: SBIN  : 477.95 : 478.9 : 477.7 : 478.35
+2022-05-11:15:25:48,678 INFO     [AbhaysApp1.py:359] 5 False Candle data :: APOLLOHOSP  : 3673.95 : 3700.2 : 3673.95 : 3691.95
+2022-05-11:15:25:48,678 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3694.25 : 3696.0 : 3691.95 : 3691.95
+2022-05-11:15:25:48,678 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3689.2 : 3700.2 : 3686.9 : 3696.15
+2022-05-11:15:25:48,678 INFO     [AbhaysApp1.py:359] 5 False Candle data :: TCS  : 3411.55 : 3418.0 : 3411.0 : 3417.4
+2022-05-11:15:25:48,693 INFO     [AbhaysApp1.py:359] 5 False Candle data :: HDFCBANK  : 1349.2 : 1350.0 : 1348.15 : 1349.75
+2022-05-11:15:25:48,693 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1349.6 : 1350.0 : 1349.35 : 1349.75
+2022-05-11:15:25:48,693 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1349.4 : 1350.0 : 1348.85 : 1350.0
+2022-05-11:15:25:48,693 INFO     [AbhaysApp1.py:359] 5 False Candle data :: AMBUJACEM  : 359.15 : 359.7 : 359.1 : 359.7
+2022-05-11:15:25:48,693 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.3 : 359.7 : 359.25 : 359.7
+2022-05-11:15:25:48,693 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.3 : 359.3 : 359.25 : 359.25
+2022-05-11:15:25:48,693 INFO     [AbhaysApp1.py:359] 5 False Candle data :: ICICIBANK  : 714.15 : 715.35 : 714.15 : 714.8
+2022-05-11:15:25:48,693 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 714.8 : 715.0 : 714.8 : 714.8
+2022-05-11:15:25:48,693 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 714.85 : 715.35 : 714.65 : 714.85
+2022-05-11:15:26:47,473 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2451.05 : 2452.0 : 2448.4 : 2448.4
+2022-05-11:15:26:47,473 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2451.6 : 2452.6 : 2450.0 : 2450.9
+2022-05-11:15:26:48,36 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 475.8 : 477.05 : 475.8 : 477.05
+2022-05-11:15:26:48,36 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 474.9 : 475.8 : 474.85 : 475.8
+2022-05-11:15:26:48,36 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 714.8 : 715.3 : 714.75 : 715.05
+2022-05-11:15:26:48,36 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 714.8 : 715.0 : 714.8 : 714.8
+2022-05-11:15:26:48,36 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 478.65 : 478.9 : 478.2 : 478.4
+2022-05-11:15:26:48,36 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 478.45 : 478.9 : 478.25 : 478.65
+2022-05-11:15:26:48,36 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3692.0 : 3692.0 : 3688.75 : 3690.9
+2022-05-11:15:26:48,36 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3694.25 : 3696.0 : 3691.95 : 3691.95
+2022-05-11:15:26:48,36 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3415.0 : 3419.1 : 3415.0 : 3415.05
+2022-05-11:15:26:48,36 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3416.1 : 3416.55 : 3415.0 : 3415.05
+2022-05-11:15:26:48,645 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1349.75 : 1350.2 : 1349.75 : 1349.95
+2022-05-11:15:26:48,645 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1349.6 : 1350.0 : 1349.35 : 1349.75
+2022-05-11:15:26:48,645 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.7 : 359.85 : 359.35 : 359.35
+2022-05-11:15:26:48,645 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.3 : 359.7 : 359.25 : 359.7
+2022-05-11:15:26:48,645 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1529.0 : 1530.0 : 1528.9 : 1529.3
+2022-05-11:15:26:48,645 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1527.75 : 1529.4 : 1527.7 : 1529.4
+2022-05-11:15:27:47,477 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3690.9 : 3698.9 : 3689.1 : 3695.35
+2022-05-11:15:27:47,477 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3692.0 : 3692.0 : 3688.75 : 3690.9
+2022-05-11:15:27:48,55 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1529.95 : 1530.0 : 1528.2 : 1528.2
+2022-05-11:15:27:48,55 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1529.0 : 1530.0 : 1528.9 : 1529.3
+2022-05-11:15:27:48,55 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 478.15 : 478.55 : 478.15 : 478.5
+2022-05-11:15:27:48,55 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 478.65 : 478.9 : 478.2 : 478.4
+2022-05-11:15:27:48,55 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3415.05 : 3418.7 : 3415.0 : 3418.5
+2022-05-11:15:27:48,55 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3415.0 : 3419.1 : 3415.0 : 3415.05
+2022-05-11:15:27:48,55 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 476.55 : 476.85 : 475.7 : 475.7
+2022-05-11:15:27:48,55 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 475.8 : 477.05 : 475.8 : 477.05
+2022-05-11:15:27:48,55 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.35 : 360.0 : 359.35 : 360.0
+2022-05-11:15:27:48,55 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.7 : 359.85 : 359.35 : 359.35
+2022-05-11:15:27:48,664 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2448.4 : 2449.35 : 2447.05 : 2448.65
+2022-05-11:15:27:48,664 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2451.05 : 2452.0 : 2448.4 : 2448.4
+2022-05-11:15:28:47,419 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2448.65 : 2449.8 : 2448.15 : 2449.5
+2022-05-11:15:28:47,419 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2448.4 : 2449.35 : 2447.05 : 2448.65
+2022-05-11:15:28:48,75 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 478.5 : 478.6 : 478.25 : 478.3
+2022-05-11:15:28:48,75 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 478.15 : 478.55 : 478.15 : 478.5
+2022-05-11:15:28:48,75 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3695.35 : 3699.0 : 3695.35 : 3696.25
+2022-05-11:15:28:48,75 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3690.9 : 3698.9 : 3689.1 : 3695.35
+2022-05-11:15:28:48,75 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1349.7 : 1350.0 : 1349.05 : 1350.0
+2022-05-11:15:28:48,75 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1349.75 : 1350.2 : 1349.75 : 1349.95
+2022-05-11:15:28:48,75 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 360.0 : 360.0 : 359.3 : 359.85
+2022-05-11:15:28:48,75 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.35 : 360.0 : 359.35 : 360.0
+2022-05-11:15:28:48,75 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 715.05 : 716.0 : 714.85 : 715.85
+2022-05-11:15:28:48,75 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 714.8 : 715.3 : 714.75 : 715.05
+2022-05-11:15:28:48,669 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3418.15 : 3421.7 : 3417.3 : 3419.0
+2022-05-11:15:28:48,669 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3415.05 : 3418.7 : 3415.0 : 3418.5
+2022-05-11:15:28:48,669 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 475.5 : 476.45 : 475.4 : 476.4
+2022-05-11:15:28:48,669 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 476.55 : 476.85 : 475.7 : 475.7
+2022-05-11:15:29:47,439 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.8 : 359.85 : 359.35 : 359.6
+2022-05-11:15:29:47,439 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 360.0 : 360.0 : 359.3 : 359.85
+2022-05-11:15:29:48,51 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3694.0 : 3705.0 : 3692.9 : 3704.3
+2022-05-11:15:29:48,51 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3695.35 : 3699.0 : 3695.35 : 3696.25
+2022-05-11:15:29:48,51 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1350.0 : 1350.0 : 1348.35 : 1349.9
+2022-05-11:15:29:48,51 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1349.7 : 1350.0 : 1349.05 : 1350.0
+2022-05-11:15:29:48,52 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 476.4 : 476.5 : 475.05 : 475.6
+2022-05-11:15:29:48,52 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 475.5 : 476.45 : 475.4 : 476.4
+2022-05-11:15:29:48,52 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 715.9 : 715.9 : 715.0 : 715.25
+2022-05-11:15:29:48,52 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 715.05 : 716.0 : 714.85 : 715.85
+2022-05-11:15:29:48,706 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1528.2 : 1531.1 : 1528.2 : 1530.0
+2022-05-11:15:29:48,706 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1529.95 : 1530.0 : 1528.2 : 1528.2
+2022-05-11:15:29:48,706 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2449.6 : 2450.0 : 2447.85 : 2449.3
+2022-05-11:15:29:48,706 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2448.65 : 2449.8 : 2448.15 : 2449.5
+2022-05-11:15:29:48,707 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 478.35 : 478.5 : 478.25 : 478.4
+2022-05-11:15:29:48,707 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 478.5 : 478.6 : 478.25 : 478.3
+2022-05-11:15:29:48,707 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3419.4 : 3420.45 : 3417.0 : 3419.85
+2022-05-11:15:29:48,707 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3418.15 : 3421.7 : 3417.3 : 3419.0
+2022-05-11:15:30:47,464 INFO     [AbhaysApp1.py:359] 5 False Candle data :: SBIN  : 478.55 : 479.0 : 478.15 : 479.0
+2022-05-11:15:30:47,464 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 478.5 : 479.0 : 478.45 : 479.0
+2022-05-11:15:30:47,464 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 478.35 : 478.5 : 478.25 : 478.4
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:359] 5 False Candle data :: HDFCBANK  : 1349.75 : 1350.2 : 1348.35 : 1349.45
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1349.15 : 1350.0 : 1348.85 : 1349.45
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1350.0 : 1350.0 : 1348.35 : 1349.9
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:359] 5 False Candle data :: INFY  : 1529.0 : 1531.1 : 1528.2 : 1531.0
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1529.95 : 1531.0 : 1528.65 : 1531.0
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1528.2 : 1531.1 : 1528.2 : 1530.0
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:359] 5 False Candle data :: RELIANCE  : 2451.05 : 2452.0 : 2447.05 : 2449.15
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2449.95 : 2452.0 : 2448.6 : 2449.15
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2449.6 : 2450.0 : 2447.85 : 2449.3
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:359] 5 False Candle data :: APOLLOHOSP  : 3692.0 : 3706.25 : 3688.75 : 3700.0
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3703.05 : 3706.25 : 3697.0 : 3700.0
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3694.0 : 3705.0 : 3692.9 : 3704.3
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:359] 5 False Candle data :: TCS  : 3417.5 : 3424.95 : 3415.0 : 3422.25
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3418.45 : 3424.95 : 3418.45 : 3422.25
+2022-05-11:15:30:48,42 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3419.4 : 3420.45 : 3417.0 : 3419.85
+2022-05-11:15:30:48,636 INFO     [AbhaysApp1.py:359] 5 False Candle data :: WIPRO  : 475.8 : 477.05 : 475.0 : 475.95
+2022-05-11:15:30:48,636 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 475.5 : 476.35 : 475.0 : 475.95
+2022-05-11:15:30:48,636 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 476.4 : 476.5 : 475.05 : 475.6
+2022-05-11:15:30:48,651 INFO     [AbhaysApp1.py:359] 5 False Candle data :: ICICIBANK  : 714.8 : 716.75 : 714.75 : 716.7
+2022-05-11:15:30:48,651 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 715.25 : 716.75 : 715.25 : 716.7
+2022-05-11:15:30:48,651 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 715.9 : 715.9 : 715.0 : 715.25
+2022-05-11:15:31:25,837 INFO     [AbhaysApp1.py:359] 5 False Candle data :: AMBUJACEM  : 359.7 : 360.0 : 359.25 : 359.9
+2022-05-11:15:40:47,440 INFO     [AbhaysApp1.py:359] 5 False Candle data :: SBIN  : 478.4 : 478.4 : 476.55 : 476.55
+2022-05-11:15:40:47,440 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 478.4 : 478.4 : 476.55 : 476.55
+2022-05-11:15:40:47,440 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 478.5 : 479.0 : 478.45 : 479.0
+2022-05-11:15:40:47,440 INFO     [AbhaysApp1.py:359] 5 False Candle data :: APOLLOHOSP  : 3700.0 : 3700.0 : 3679.65 : 3679.65
+2022-05-11:15:40:47,440 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3700.0 : 3700.0 : 3679.65 : 3679.65
+2022-05-11:15:40:47,440 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3703.05 : 3706.25 : 3697.0 : 3700.0
+2022-05-11:15:40:47,440 INFO     [AbhaysApp1.py:359] 5 False Candle data :: HDFCBANK  : 1349.45 : 1349.45 : 1348.6 : 1348.6
+2022-05-11:15:40:47,440 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1349.45 : 1349.45 : 1348.6 : 1348.6
+2022-05-11:15:40:47,440 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1349.15 : 1350.0 : 1348.85 : 1349.45
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:359] 5 False Candle data :: ICICIBANK  : 716.7 : 716.7 : 714.2 : 714.2
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 716.7 : 716.7 : 714.2 : 714.2
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 715.25 : 716.75 : 715.25 : 716.7
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:359] 5 False Candle data :: INFY  : 1531.0 : 1531.0 : 1526.75 : 1526.75
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1531.0 : 1531.0 : 1526.75 : 1526.75
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1529.95 : 1531.0 : 1528.65 : 1531.0
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:359] 5 False Candle data :: RELIANCE  : 2450.75 : 2450.75 : 2449.3 : 2449.3
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2450.75 : 2450.75 : 2449.3 : 2449.3
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2449.95 : 2452.0 : 2448.6 : 2449.15
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:359] 5 False Candle data :: TCS  : 3422.25 : 3422.25 : 3412.0 : 3412.0
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3422.25 : 3422.25 : 3412.0 : 3412.0
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3418.45 : 3424.95 : 3418.45 : 3422.25
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:359] 5 False Candle data :: WIPRO  : 475.95 : 475.95 : 471.9 : 471.9
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 475.95 : 475.95 : 471.9 : 471.9
+2022-05-11:15:40:48,34 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 475.5 : 476.35 : 475.0 : 475.95
+2022-05-11:15:40:48,627 INFO     [AbhaysApp1.py:359] 5 False Candle data :: AMBUJACEM  : 359.9 : 359.9 : 359.05 : 359.05
+2022-05-11:15:40:48,627 INFO     [AbhaysApp1.py:219] One min Candle data :: AMBUJACEM  : 359.65 : 359.9 : 359.05 : 359.05
+2022-05-11:15:40:48,627 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 359.8 : 359.85 : 359.35 : 359.6
+2022-05-11:15:41:48,43 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1526.75 : 1526.75 : 1526.75 : 1526.75
+2022-05-11:15:41:48,43 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1531.0 : 1531.0 : 1526.75 : 1526.75
+2022-05-11:15:41:48,43 INFO     [AbhaysApp1.py:219] One min Candle data :: APOLLOHOSP  : 3679.65 : 3679.65 : 3679.65 : 3679.65
+2022-05-11:15:41:48,43 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3700.0 : 3700.0 : 3679.65 : 3679.65
+2022-05-11:15:41:48,43 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:15:41:48,43 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 475.95 : 475.95 : 471.9 : 471.9
+2022-05-11:15:43:47,438 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3412.0 : 3412.0 : 3412.0 : 3412.0
+2022-05-11:15:43:47,438 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3422.25 : 3422.25 : 3412.0 : 3412.0
+2022-05-11:15:43:48,32 INFO     [AbhaysApp1.py:219] One min Candle data :: RELIANCE  : 2449.3 : 2449.3 : 2449.3 : 2449.3
+2022-05-11:15:43:48,32 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 2450.75 : 2450.75 : 2449.3 : 2449.3
+2022-05-11:15:44:47,429 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1526.75 : 1526.75 : 1526.75 : 1526.75
+2022-05-11:15:44:47,429 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1526.75 : 1526.75 : 1526.75 : 1526.75
+2022-05-11:15:44:47,429 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 714.2 : 714.2 : 714.2 : 714.2
+2022-05-11:15:44:47,429 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 716.7 : 716.7 : 714.2 : 714.2
+2022-05-11:15:44:48,23 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:15:44:48,23 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:15:45:49,251 INFO     [AbhaysApp1.py:359] 5 False Candle data :: RELIANCE  : 2449.3 : 2449.3 : 2449.3 : 2449.3
+2022-05-11:15:45:51,47 INFO     [AbhaysApp1.py:359] 5 False Candle data :: HDFCBANK  : 1348.6 : 1348.6 : 1348.6 : 1348.6
+2022-05-11:15:45:51,47 INFO     [AbhaysApp1.py:359] 5 False Candle data :: WIPRO  : 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:15:45:54,625 INFO     [AbhaysApp1.py:359] 5 False Candle data :: INFY  : 1526.75 : 1526.75 : 1526.75 : 1526.75
+2022-05-11:15:45:55,844 INFO     [AbhaysApp1.py:359] 5 False Candle data :: SBIN  : 476.55 : 476.55 : 476.55 : 476.55
+2022-05-11:15:46:00,26 INFO     [AbhaysApp1.py:359] 5 False Candle data :: AMBUJACEM  : 359.05 : 359.05 : 359.05 : 359.05
+2022-05-11:15:46:03,619 INFO     [AbhaysApp1.py:359] 5 False Candle data :: TCS  : 3412.0 : 3412.0 : 3412.0 : 3412.0
+2022-05-11:15:46:21,37 INFO     [AbhaysApp1.py:359] 5 False Candle data :: APOLLOHOSP  : 3679.65 : 3679.65 : 3679.65 : 3679.65
+2022-05-11:15:46:28,224 INFO     [AbhaysApp1.py:359] 5 False Candle data :: ICICIBANK  : 714.2 : 714.2 : 714.2 : 714.2
+2022-05-11:15:46:48,34 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:15:46:48,34 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:15:47:48,28 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3412.0 : 3412.0 : 3412.0 : 3412.0
+2022-05-11:15:47:48,28 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3412.0 : 3412.0 : 3412.0 : 3412.0
+2022-05-11:15:48:48,29 INFO     [AbhaysApp1.py:219] One min Candle data :: WIPRO  : 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:15:48:48,29 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:15:49:47,417 INFO     [AbhaysApp1.py:219] One min Candle data :: TCS  : 3412.0 : 3412.0 : 3412.0 : 3412.0
+2022-05-11:15:49:47,433 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 3412.0 : 3412.0 : 3412.0 : 3412.0
+2022-05-11:15:50:48,613 INFO     [AbhaysApp1.py:359] 5 False Candle data :: ICICIBANK  : 714.2 : 714.2 : 714.2 : 714.2
+2022-05-11:15:50:49,832 INFO     [AbhaysApp1.py:359] 5 False Candle data :: SBIN  : 476.55 : 476.55 : 476.55 : 476.55
+2022-05-11:15:50:51,35 INFO     [AbhaysApp1.py:359] 5 False Candle data :: WIPRO  : 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:15:50:52,238 INFO     [AbhaysApp1.py:359] 5 False Candle data :: HDFCBANK  : 1348.6 : 1348.6 : 1348.6 : 1348.6
+2022-05-11:15:50:52,238 INFO     [AbhaysApp1.py:359] 5 False Candle data :: INFY  : 1526.75 : 1526.75 : 1526.75 : 1526.75
+2022-05-11:15:51:01,830 INFO     [AbhaysApp1.py:359] 5 False Candle data :: TCS  : 3412.0 : 3412.0 : 3412.0 : 3412.0
+2022-05-11:15:51:15,46 INFO     [AbhaysApp1.py:359] 5 False Candle data :: AMBUJACEM  : 359.05 : 359.05 : 359.05 : 359.05
+2022-05-11:15:51:15,624 INFO     [AbhaysApp1.py:359] 5 False Candle data :: RELIANCE  : 2449.3 : 2449.3 : 2449.3 : 2449.3
+2022-05-11:15:51:30,626 INFO     [AbhaysApp1.py:359] 5 False Candle data :: APOLLOHOSP  : 3679.65 : 3679.65 : 3679.65 : 3679.65
+2022-05-11:15:51:47,435 INFO     [AbhaysApp1.py:219] One min Candle data :: ICICIBANK  : 714.2 : 714.2 : 714.2 : 714.2
+2022-05-11:15:51:47,435 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 714.2 : 714.2 : 714.2 : 714.2
+2022-05-11:15:51:48,29 INFO     [AbhaysApp1.py:219] One min Candle data :: SBIN  : 476.55 : 476.55 : 476.55 : 476.55
+2022-05-11:15:51:48,29 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 478.4 : 478.4 : 476.55 : 476.55
+2022-05-11:15:53:47,429 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1348.6 : 1348.6 : 1348.6 : 1348.6
+2022-05-11:15:53:47,429 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1349.45 : 1349.45 : 1348.6 : 1348.6
+2022-05-11:15:55:49,844 INFO     [AbhaysApp1.py:359] 5 False Candle data :: SBIN  : 476.55 : 476.55 : 476.55 : 476.55
+2022-05-11:15:55:50,453 INFO     [AbhaysApp1.py:359] 5 False Candle data :: WIPRO  : 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:15:55:51,32 INFO     [AbhaysApp1.py:359] 5 False Candle data :: RELIANCE  : 2449.3 : 2449.3 : 2449.3 : 2449.3
+2022-05-11:15:55:53,421 INFO     [AbhaysApp1.py:359] 5 False Candle data :: INFY  : 1526.75 : 1526.75 : 1526.75 : 1526.75
+2022-05-11:15:55:57,31 INFO     [AbhaysApp1.py:359] 5 False Candle data :: TCS  : 3412.0 : 3412.0 : 3412.0 : 3412.0
+2022-05-11:15:56:03,623 INFO     [AbhaysApp1.py:359] 5 False Candle data :: HDFCBANK  : 1348.6 : 1348.6 : 1348.6 : 1348.6
+2022-05-11:15:56:25,229 INFO     [AbhaysApp1.py:359] 5 False Candle data :: ICICIBANK  : 714.2 : 714.2 : 714.2 : 714.2
+2022-05-11:15:56:48,21 INFO     [AbhaysApp1.py:219] One min Candle data :: HDFCBANK  : 1348.6 : 1348.6 : 1348.6 : 1348.6
+2022-05-11:15:56:48,21 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1348.6 : 1348.6 : 1348.6 : 1348.6
+2022-05-11:15:57:48,30 INFO     [AbhaysApp1.py:219] One min Candle data :: INFY  : 1526.75 : 1526.75 : 1526.75 : 1526.75
+2022-05-11:15:57:48,30 INFO     [AbhaysApp1.py:229] Previous One min Candle data :: 1526.75 : 1526.75 : 1526.75 : 1526.75
+2022-05-11:16:01:32,460 INFO     [AbhaysApp1.py:359] 5 False Candle data :: ICICIBANK  : 714.2 : 714.2 : 714.2 : 714.2
+2022-05-11:16:01:32,460 INFO     [AbhaysApp1.py:359] 5 False Candle data :: INFY  : 1526.75 : 1526.75 : 1526.75 : 1526.75
+2022-05-11:16:01:32,460 INFO     [AbhaysApp1.py:359] 5 False Candle data :: RELIANCE  : 2449.3 : 2449.3 : 2449.3 : 2449.3
+2022-05-11:16:01:32,460 INFO     [AbhaysApp1.py:359] 5 False Candle data :: SBIN  : 476.55 : 476.55 : 476.55 : 476.55
+2022-05-11:16:01:32,461 INFO     [AbhaysApp1.py:359] 5 False Candle data :: APOLLOHOSP  : 3679.65 : 3679.65 : 3679.65 : 3679.65
+2022-05-11:16:01:32,461 INFO     [AbhaysApp1.py:359] 5 False Candle data :: TCS  : 3412.0 : 3412.0 : 3412.0 : 3412.0
+2022-05-11:16:01:32,461 INFO     [AbhaysApp1.py:359] 5 False Candle data :: HDFCBANK  : 1348.6 : 1348.6 : 1348.6 : 1348.6
+2022-05-11:16:01:32,461 INFO     [AbhaysApp1.py:359] 5 False Candle data :: WIPRO  : 471.9 : 471.9 : 471.9 : 471.9
+2022-05-11:16:01:32,461 INFO     [AbhaysApp1.py:359] 5 False Candle data :: AMBUJACEM  : 359.05 : 359.05 : 359.05 : 359.05
+2022-05-11:16:14:17,843 ERROR    [ticker.py:661] Connection error: 1006 - connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
+2022-05-11:16:14:17,854 ERROR    [ticker.py:654] Connection closed: 1006 - connection was closed uncleanly (peer dropped the TCP connection without previous WebSocket closing handshake)
